@@ -1,0 +1,22 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 本地配置文件（如果你有）
+config.py
+.env
+
+# 日志和临时文件
+*.log
+*.tmp
+*.pid
+
+# 自己测试用的图片（如果有）
+test_images/
+*.png
+*.jpg
