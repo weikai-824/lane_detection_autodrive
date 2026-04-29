@@ -2,4 +2,6 @@
 简要描述(Description)：在仿真环境中，车辆前方有一个3D场景(有直线和弯道)，我需要实现一个视觉驱动的车道保持系统。
 核心流程图(Diagram)：<img width="1312" height="620" alt="image" src="https://github.com/user-attachments/assets/eb6f3ae3-9368-4d25-8101-170be41f0fbd" />
 代码结构：自动驾驶.py(主项目程序)，pid.py(PID算法),hqyj_mqtt.py(MQTT客户端)
+比较好的异常处理：<img width="1106" height="743" alt="image" src="https://github.com/user-attachments/assets/347cd203-deab-4f7a-bb67-d65cb356b1bf" />
 技术博客链接：https://zhuanlan.zhihu.com/p/2032211359899858227/edit
+整体效果图：<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/94187025-7122-46d2-a367-c24a49298e88" />
